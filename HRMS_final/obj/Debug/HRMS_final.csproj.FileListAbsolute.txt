@@ -1,0 +1,14 @@
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\bin\Debug\HR_management_final.accdb
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\bin\Debug\HRMS_final.exe.config
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\bin\Debug\HRMS_final.exe
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\bin\Debug\HRMS_final.pdb
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\obj\Debug\HRMS_final.csprojAssemblyReference.cache
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\obj\Debug\HRMS_final.login.resources
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\obj\Debug\HRMS_final.Properties.Resources.resources
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\obj\Debug\HRMS_final.csproj.GenerateResource.cache
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\obj\Debug\HRMS_final.csproj.CoreCompileInputs.cache
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\obj\Debug\HRMS_final.exe
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\obj\Debug\HRMS_final.pdb
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\obj\Debug\HRMS_final.HRManagerIntefaceProject.resources
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\obj\Debug\HRMS_final.HRManagerInterfaceEmployee.resources
+C:\Users\22119\source\repos\HRMS_final\HRMS_final\obj\Debug\HRMS_final.Project.resources
